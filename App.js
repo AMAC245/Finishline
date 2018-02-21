@@ -9,5 +9,3 @@ const NavigationRoutes = StackNavigator({
 })
 
 export default NavigationRoutes;
-
-
