@@ -11,13 +11,11 @@ export default class ItemScreen extends Component {
     return(
       <View style={styles.container}>
         <View>
-          <Text style={styles.item}>
-            In the last 30 days, {items.one}
-          </Text>
+          <Text style={styles.item}> In the last 30 days, {items.one} </Text>
         </View>
 
         <View>
-          <Text>{response.one.text}</Text>
+          <Text> {response.one.text} </Text>
         </View>
       </View>
     )

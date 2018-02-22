@@ -1,0 +1,1 @@
+![alt text](src/assets/sample-brief.png)
