@@ -1,0 +1,36 @@
+{
+  "items": {
+    "one": "about how often did you feel tired out for no good reason?",
+    "two": "about how often did you feel nervous?",
+    "three": "about how often did you feel so nervous that nothing could calm you down?",
+    "four": "about how often did you feel hopeless?",
+    "five": "about how often did you feel restless or fidgety?",
+    "six": "about how often did you feel so restless you could not sit still?",
+    "seven": "about how often did you feel depressed?",
+    "eight": "about how often did you feel that everything was an effort?",
+    "nine": "about how often did you feel so sad that nothing could cheer you up?",
+    "ten": "about how often did you feel worthless?"
+  },
+  "response": {
+    "one": {
+      "text": "None of the time",
+      "score": 1
+    },
+    "two": {
+      "text": "A little of the time",
+      "score": 2
+    },
+    "three": {
+      "text": "Some of the time",
+      "score": 3
+    },
+    "four": {
+      "text": "Most of the time",
+      "score": 4
+    },
+    "five": {
+      "text": "All of the time",
+      "score": 5
+    }
+  } 
+}
